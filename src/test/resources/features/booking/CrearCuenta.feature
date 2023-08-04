@@ -9,7 +9,7 @@ Feature: Crear cuenta de usuario
 
     Examples:
       | usuario            | password    |
-      | pruebas10@book.com | Testing2024 |
+      | pruebas11@book.com | Testing2024 |
 
   @UnHappyPathCreate
   Scenario Outline: Crear cuenta con password incorrecto

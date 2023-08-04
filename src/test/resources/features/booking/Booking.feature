@@ -11,4 +11,4 @@ Feature: Realizar reserva de habitacion
 
     Examples:
       | usuario         | password    | destino |
-      | prueba@book.com | Testing2023 | Cusco   |
+      | pruebas11@book.com | Testing2024 | Cusco   |
